@@ -1,2 +1,2 @@
 [console_scripts]
-protocol-formatter = protocol_formatter.__main__:main
+protocol_formatter = protocol_formatter.__main__:main

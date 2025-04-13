@@ -1,4 +1,4 @@
-[![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen?style=for-the-badge)](https://github.com/adhikaripb/protocol-formatter/generate)
+[![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen?style=for-the-badge)](https://github.com/adhikaripb/protocol_formatter/generate)
 <p align="center">
   <img src="assets/banner.png" width="80%" alt="Repo Banner"/>
 </p>
@@ -10,7 +10,7 @@ Say goodbye to messy indentation, unclear bulleting, and formatting inconsistenc
 ---
 
 
-[![PyPI version](https://img.shields.io/pypi/v/protocol-formatter?color=blue)](https://pypi.org/project/protocol-formatter/)
+[![PyPI version](https://img.shields.io/pypi/v/protocol_formatter?color=blue)](https://pypi.org/project/protocol_formatter/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 ![Python version](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
@@ -31,7 +31,7 @@ Say goodbye to messy indentation, unclear bulleting, and formatting inconsistenc
 ## 📦 Installation
 
 ```bash
-pip install protocol-formatter
+pip install protocol_formatter
 ```
 > **Note for macOS/Linux users**:  
 > This package relies on system-level libraries like Cairo, Pango, and GDK-Pixbuf for converting `.docx` to `.pdf`.  
@@ -46,7 +46,7 @@ pip install protocol-formatter
 ## 🧪 How to Use
 
 ```bash
-protocol-formatter path/to/input_protocol.txt
+protocol_formatter path/to/input_protocol.txt
 ```
 
 - You’ll be prompted to provide a path if not passed as argument.

@@ -1,3 +1,4 @@
 python-docx
 fpdf
-docx2pdf
+svgwrite
+cairosvg

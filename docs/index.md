@@ -20,12 +20,12 @@
  
  1. **Install the tool** (after packaging or from PyPI):
      ```bash
-     pip install protocol-formatter
+     pip install protocol_formatter
      ```
  
  2. **Run it anywhere in your terminal**:
      ```bash
-     protocol-formatter
+     protocol_formatter
      ```
  
  3. **Follow the prompt** to provide the path to your `.txt` file. The script will output:
@@ -61,7 +61,7 @@
  
  After installation, use:
  ```bash
- protocol-formatter path/to/your_protocol.txt
+ protocol_formatter path/to/your_protocol.txt
  ```
  
  ---
